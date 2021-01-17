@@ -1,4 +1,3 @@
-### Hey there 👋
 
 <!--
 **fin1te/fin1te** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Student - Bachelors of Computer Engineering 
-# Second Year (9.89 GPA)
+## Second Year (9.89 GPA)
 
 - 🔢 I'm Rishabh (Fin1te), 20 Y/O Student & Developer.
 - 💻 I code in C, C++ & Java.
