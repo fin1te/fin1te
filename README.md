@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Student - Bachelors of Computer Engineering 
+# Student - Bachelor of Computer Engineering 
 ## Second Year (9.89 GPA)
 
 - 🔢 I'm Rishabh (Fin1te), 20 Y/O Student & Developer.
