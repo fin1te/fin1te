@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently doing **Bachelors of Computer Engineering**,
+💻Currently doing **Bachelors of Computer Engineering**,
 Second Year [2020-21]**[9.89 CGPA]**
-and looking for Internship Opportunities, Keen
-Interest and Knowledge in Programming
+and looking for Internship Opportunities.
+
+Keep interest and knowledge in Programming
 **[C, C++, Java & SQL]**, as well as **Android Studio**, Git, AfterEffect, AutoCad,
 Sketchup Pro, Photoshop, Lightroom, Jailbreaking
 iOS, Rooting Android, QA Manual Testing and
