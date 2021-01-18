@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 # Student - Bachelor of Computer Engineering 
 ## Second Year (9.89 GPA)
-
+---
 <img align="right" height='180px' alt="GIF" src="https://media1.tenor.com/images/104f3a788e614cb7ecf468d09eff1d1a/tenor.gif" />
 
 </br>
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - ⚙ Photoshop | AfterEffect | Autocad | Lightroom |
 - ⚙ Sketchup Pro | Lightroom | VSCode | Eclipse |
 - 🔰 | QA Manual Testing |
-
+---
 <!--
 💻Currently doing **Bachelors of Computer Engineering**,
 Second Year [2020-21]**[9.89 CGPA]**
@@ -51,6 +51,9 @@ Learning new skills.
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+</br> <br>
+
+---
 
 <div id="just-line-break"></div>
 <br/>
