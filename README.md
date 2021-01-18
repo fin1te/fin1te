@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 # Student - Bachelor of Computer Engineering 
 ## Second Year (9.89 GPA)
 
-
+<img align="right" height='180px' alt="GIF" src="https://media1.tenor.com/images/104f3a788e614cb7ecf468d09eff1d1a/tenor.gif" />
+</br>
 - 🔢 I'm Rishabh (Fin1te), 20 Y/O Student & Developer.
 - 💻 I code in C, C++ & Java.
 - ✍ Currently learning Android Studio & Database connectivity.
@@ -28,7 +29,6 @@ Here are some ideas to get you started:
 - ⚙ Sketchup Pro | Lightroom | VSCode | Eclipse |
 - 🔰 | QA Manual Testing |
 </br>
-<img align="right" height='180px' alt="GIF" src="https://media1.tenor.com/images/104f3a788e614cb7ecf468d09eff1d1a/tenor.gif" />
 
 <!--
 💻Currently doing **Bachelors of Computer Engineering**,
