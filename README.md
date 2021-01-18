@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 # Student - Bachelor of Computer Engineering 
 ## Second Year (9.89 GPA)
 
+<img align="right" height='180px' alt="GIF" src="https://tenor.com/view/computer-nerds-geeky-coding-hack-gif-14794084" />
 - 🔢 I'm Rishabh (Fin1te), 20 Y/O Student & Developer.
 - 💻 I code in C, C++ & Java.
 - ✍ Currently learning Android Studio & Database connectivity. [Firebase & SQL]
@@ -25,6 +26,7 @@ Here are some ideas to get you started:
 - ⚙ Photoshop | AfterEffect | Autocad | Lightroom |
 - ⚙ Sketchup Pro | Lightroom | VSCode | Eclipse |
 - 🔰 | QA Manual Testing |
+
 <!--
 💻Currently doing **Bachelors of Computer Engineering**,
 Second Year [2020-21]**[9.89 CGPA]**
