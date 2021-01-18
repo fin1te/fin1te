@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 
 </br>
 
-- 🔢 I'm Rishabh (Fin1te), 20 Y/O Student & Developer.
-- 💻 I code in C, C++ & Java.
-- ✍ Currently learning Android Studio & Database connectivity [Firebase & SQL]
-- ⚙ C | C++ | Java | Android Studio | Git |
-- ⚙ Photoshop | AfterEffect | Autocad | Lightroom |
-- ⚙ Sketchup Pro | Lightroom | VSCode | Eclipse |
-- 🔰 | QA Manual Testing |
+- **🔢 I'm Rishabh (Fin1te), 20 Y/O Student & Developer.
+- **💻 I code in C, C++ & Java.
+- **✍ Currently learning Android Studio & Database connectivity [Firebase & SQL]
+- **⚙ C | C++ | Java | Android Studio | Git |
+- **⚙ Photoshop | AfterEffect | Autocad | Lightroom |
+- **⚙ Sketchup Pro | Lightroom | VSCode | Eclipse |
+- **🔰 | QA Manual Testing |
 ---
 <!--
 💻Currently doing **Bachelors of Computer Engineering**,
