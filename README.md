@@ -63,3 +63,6 @@ Learning new skills.
 <div id="line-break-and-tab2"></div>
 
 [![Fin1te's github stats](https://github-readme-stats.vercel.app/api?username=fin1te&count_private=true&show_icons=true&theme=radical)](https://github.com/fin1te)
+<br/>
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fin1te&show_icons=true&theme=radical)](https://github.com/fin1te)
