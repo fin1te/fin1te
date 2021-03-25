@@ -65,4 +65,4 @@ Learning new skills.
 
 
 
-<img height='200px' src="https://github-readme-stats.vercel.app/api?username=fin1te&count_private=true&show_icons=true&theme=radical"><img height='200px' align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fin1te&show_icons=true&theme=radical">
+<img height='200px' src="https://github-readme-stats.vercel.app/api?username=fin1te&count_private=true&show_icons=true&theme=radical"><img height='200px' width='400px' align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fin1te&show_icons=true&theme=radical">
