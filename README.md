@@ -50,7 +50,7 @@ Learning new skills.
 
 ### Databases :
 
-  ![SQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+  ![SQL](https://img.shields.io/badge/sql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase)&nbsp;
   
@@ -60,6 +60,8 @@ Learning new skills.
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
   ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
   ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)&nbsp;
+  ![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
   
   
 ---
