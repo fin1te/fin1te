@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Student - Bachelor of Computer Engineering 
-## Second Year (9.89 GPA)
+# CSE Undergrad Student
+## Third Year (9.6 GPA)
 ---
 <img align="right" height='180px' alt="GIF" src="https://media1.tenor.com/images/104f3a788e614cb7ecf468d09eff1d1a/tenor.gif" />
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ---
 <!--
 💻Currently doing **Bachelors of Computer Engineering**,
-Second Year [2020-21]**[9.89 CGPA]**
+Third Year [2021-22]**[9.6 CGPA]**
 and looking for Internship Opportunities.
 Keep interest and knowledge in Programming
 **[C, C++, Java & SQL]**, as well as **Android Studio**, Git, AfterEffect, AutoCad,
