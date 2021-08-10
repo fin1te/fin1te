@@ -1,45 +1,26 @@
 
-<!--
-**fin1te/fin1te** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# CSE Undergrad Student
-## Third Year (9.6 GPA)
+# CSE Undergrad & Native App Developer
+## Google Developer Student Club Lead
+---
+#### [Join our Developer Student Club](https://gdsc.community.dev/pillai-hoc-college-of-engineering-and-technology/) where we'll together learn App & Web Development with bi-weekly Workshops, Hackathons,Winter of Code (Later this year) & Summer of Code (Spring '22) and as well regularly Contributing to Open Source Projects here on GitHub (I'll be taking sessions & teaching Git & GitHub from the very basics). Learn more about Developer Student Clubs [here.](https://developers.google.com/community/dsc/)
 ---
 <img align="right" height='180px' alt="GIF" src="https://media1.tenor.com/images/104f3a788e614cb7ecf468d09eff1d1a/tenor.gif" />
 
 </br>
 
 - **🔢 I'm Rishabh (Fin1te), 20 Y/O Student & Developer.**
-- **💻 I code in C, C++ & Java.**
-- **✍ Currently learning Android Studio & Database connectivity [Firebase & SQL]**
+- **💻 I code in C, C++, Java & Python.**
+- **✍ I love taking about & teaching Git, GitHub and Firebase (all Modules).**
+
+- **Always here to help if you're looking to learn something, Contact me [here](https://linktr.ee/fin1te)** 
+<!--
 - **⚙ C | C++ | Java | Android Studio | Git |**
 - **⚙ Photoshop | AfterEffect | Autocad | Lightroom |**
 - **⚙ Sketchup Pro | Lightroom | VSCode | Eclipse |**
 - **🔰 | QA Manual Testing |**
----
-<!--
-💻Currently doing **Bachelors of Computer Engineering**,
-Third Year [2021-22]**[9.6 CGPA]**
-and looking for Internship Opportunities.
-Keep interest and knowledge in Programming
-**[C, C++, Java & SQL]**, as well as **Android Studio**, Git, AfterEffect, AutoCad,
-Sketchup Pro, Photoshop, Lightroom, Jailbreaking
-iOS, Rooting Android, QA Manual Testing and
-Learning new skills.
 -->
+---
+
 
 ### Programming Languages :
 
@@ -76,4 +57,4 @@ Learning new skills.
 
 
 
-<img height='200px' src="https://github-readme-stats.vercel.app/api?username=fin1te&count_private=true&show_icons=true&theme=radical"><img height='200px' align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fin1te&show_icons=true&theme=radical">
+<img height='200px' src="https://github-readme-stats.vercel.app/api?username=fin1te&count_private=true&show_icons=true&theme=radical"><img height='200px' width='300px' align="right | center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fin1te&show_icons=true&theme=radical">
