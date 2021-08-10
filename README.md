@@ -2,7 +2,7 @@
 # CSE Undergrad & Native App Developer
 ## Google Developer Student Club Lead
 ---
-#### [Join our Developer Student Club](https://gdsc.community.dev/pillai-hoc-college-of-engineering-and-technology/) where we'll together learn App & Web Development with bi-weekly Workshops, Hackathons, Winter of Code (Nov-Jan '21) & Summer of Code (Feb-May '22) and as well regularly Contributing to Open Source Projects here on GitHub (I'll be taking sessions & teaching Git & GitHub from the very fundamental basics to advance). Learn more about Developer Student Clubs [here.](https://developers.google.com/community/dsc/)
+#### [Join our Developer Student Club](https://gdsc.community.dev/pillai-hoc-college-of-engineering-and-technology/) where we'll together learn App Development, Web Development & DevOps with bi-weekly Workshops, Hackathons, Winter of Code (Nov-Jan '21) & Summer of Code (Feb-May '22) and as well regularly Contributing to Open Source Projects here on GitHub (I'll be taking sessions & teaching Git & GitHub from the very fundamental basics to advance). Learn more about Developer Student Clubs [here.](https://developers.google.com/community/dsc/)
 ---
 <img align="right" height='180px' alt="GIF" src="https://media1.tenor.com/images/104f3a788e614cb7ecf468d09eff1d1a/tenor.gif" />
 
