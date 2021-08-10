@@ -20,9 +20,10 @@
 - **🔰 | QA Manual Testing |**
 -->
 ---
-Note : The 3 Major repos PMC, PHCET & CovidInfoLeads are turned private for few weeks till i finish the stable beta build for PMC & PHCET and v1.1.0 for CovidInfoLeads.
-Once I'm done with this I'll open 2 of them as Open Source Projects under @dsc-phcet and the last one will be released on App Stores (with selected Dev Teams). I'll update y'all about it via our Discord & Twitter. 
+##### Note : The 3 major repos PMC, PHCET & CovidInfoLeads are turned private for few weeks till i finish the stable beta build for PMC & PHCET and v1.1.0 for CovidInfoLeads.
+##### Once I'm done with this I'll open 2 of them as Open Source Projects under the [Develop Student Club](https://github.com/dsc-phcet) and the last one will be released on App Stores (with selected Dev Teams). I'll update y'all about it via our Discord & Twitter. 
 ---
+
 
 ### Programming Languages :
 
