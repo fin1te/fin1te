@@ -1,7 +1,6 @@
 
 # CSE Undergrad & Native App Developer
 ## Google Developer Student Club Lead
----
 <!--#### [Join our Developer Student Club](https://gdsc.community.dev/pillai-hoc-college-of-engineering-and-technology/) where we'll together learn App Development, Web Development & DevOps with bi-weekly Workshops, Hackathons, Winter of Code (Nov-Jan '21) & Summer of Code (Feb-May '22) and as well regularly Contributing to Open Source Projects here on GitHub (I'll be taking sessions & teaching Git & GitHub from the very fundamental basics to advance). Learn more about Developer Student Clubs [here.](https://developers.google.com/community/dsc/)-->
 ---
 <img align="right" height='180px' alt="GIF" src="https://media1.tenor.com/images/104f3a788e614cb7ecf468d09eff1d1a/tenor.gif" />
@@ -9,8 +8,8 @@
 </br>
 
 - **🔢 I'm Rishabh (Fin1te), 20 Y/O Student & Developer.**
-- **💻 I code in C, C++, Java & Python.**
-- **✍ I love taking about & teaching Git, GitHub and Firebase (all Modules).**
+- **💻 I code in C, C++, Java, Kotlin & Python.**
+- **✍ I love talking about & teaching Git, Android Development and Firebase (all Modules).**
 
 - **Always here to help if you're looking to learn something, Contact me [here](https://linktr.ee/fin1te)** 
 <!--
