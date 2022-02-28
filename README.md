@@ -1,15 +1,19 @@
 
 # CSE Undergrad & Native App Developer
-## Google Developer Student Club Lead
+## [Google Developer Student Club Lead](https://gdsc.community.dev/pillai-hoc-college-of-engineering-and-technology-navi-mumbai/)
+### [Project Admin @ GirlScript Summer of Code 2022](https://gssoc.girlscript.tech/)
 <!--#### [Join our Developer Student Club](https://gdsc.community.dev/pillai-hoc-college-of-engineering-and-technology/) where we'll together learn App Development, Web Development & DevOps with bi-weekly Workshops, Hackathons, Winter of Code (Nov-Jan '21) & Summer of Code (Feb-May '22) and as well regularly Contributing to Open Source Projects here on GitHub (I'll be taking sessions & teaching Git & GitHub from the very fundamental basics to advance). Learn more about Developer Student Clubs [here.](https://developers.google.com/community/dsc/)-->
 
 <img align="right" height='180px' alt="GIF" src="https://media1.tenor.com/images/104f3a788e614cb7ecf468d09eff1d1a/tenor.gif" />
 
 </br>
 
-- **🔢 Fin1te here, CS Engineering Undergrad**
-- **💻 I code mainly in Kotlin & Java, as well as C, C++, Python.**
-- **✍ I enjoy teaching Android App Development in Kotlin, Java & Git.**
+- **🔢 Rishabh here, Android Developer & Open Source Enthusiast**
+- **💻 I code mainly in Kotlin & Java (Ocasionally in c, C++ & Python)**
+- **✍ I teach Android App Development in Kotlin, Java, Git and REST APIs.**
+- **Read my tech blogs at [Hashnode](https://finite.hashnode.dev/)**
+- **Follow me on Tech Twitter [@shoxxxxie](https://twitter.com/shoxxxxie)**
+- **Checkout our past event's recordings on our [YouTube](https://www.youtube.com/channel/UCT_PuQ6yrstde355wXrrE5Q/)**
 
 - **Always here to help if you're looking to contact, reach me [here](https://linktr.ee/fin1te)** 
 <!--
@@ -59,4 +63,6 @@
 
 
 
-<img height='200px' src="https://github-readme-stats.vercel.app/api?username=fin1te&count_private=true&show_icons=true&theme=radical"><img height='200px' width='300px' align="right | center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fin1te&show_icons=true&theme=radical">
+<img height='200px' src="https://github-readme-stats.vercel.app/api?username=fin1te&count_private=true&show_icons=true&theme=radical">
+
+<!--<img height='200px' width='300px' align="right | center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fin1te&show_icons=true&theme=radical">-->
