@@ -2,6 +2,7 @@
 # CSE Undergrad & Native App Developer
 ## [Google Developer Student Club Lead](https://gdsc.community.dev/pillai-hoc-college-of-engineering-and-technology-navi-mumbai/)
 ### [Project Admin @ GirlScript Summer of Code 2022](https://gssoc.girlscript.tech/)
+
 <!--#### [Join our Developer Student Club](https://gdsc.community.dev/pillai-hoc-college-of-engineering-and-technology/) where we'll together learn App Development, Web Development & DevOps with bi-weekly Workshops, Hackathons, Winter of Code (Nov-Jan '21) & Summer of Code (Feb-May '22) and as well regularly Contributing to Open Source Projects here on GitHub (I'll be taking sessions & teaching Git & GitHub from the very fundamental basics to advance). Learn more about Developer Student Clubs [here.](https://developers.google.com/community/dsc/)-->
 
 <img align="right" height='180px' alt="GIF" src="https://media1.tenor.com/images/104f3a788e614cb7ecf468d09eff1d1a/tenor.gif" />
@@ -14,6 +15,7 @@
 - **Read my tech blogs at [Hashnode](https://finite.hashnode.dev/)**
 - **Follow me on Tech Twitter [@shoxxxxie](https://twitter.com/shoxxxxie)**
 - **Checkout our past event's recordings on our [YouTube](https://www.youtube.com/channel/UCT_PuQ6yrstde355wXrrE5Q/)**
+- **Contribute to GDSC PHCET's [Open Source App](https://github.com/DSC-PHCET/gdsc-android-app), Good First Issues are available for beginners**
 
 - **Always here to help if you're looking to contact, reach me [here](https://linktr.ee/fin1te)** 
 <!--
