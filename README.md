@@ -5,43 +5,55 @@
   </picture>
 </a>
 
-I'm Rishabh, a cloud and data engineer on the Jio Cloud team at Jio Platforms, Mumbai. Most of my work is infrastructure nobody sees until it breaks: data platforms, streaming pipelines, analytics at telecom scale, and lately the cloud and network layer of an AI datacenter.
+<br />
 
-**Right now:** building cloud infrastructure and networking for India's largest AI datacenter from the ground up. That means BlueField-3 DPUs provisioned out-of-band over Redfish, a self-hosted WireGuard mesh into GPU pods, and Temporal and Crossplane workflows that automate firewall changes on F5 BIG-IP.
+Hi, I'm Rishabh. I work on the **Jio Cloud** team at Jio Platforms in Mumbai, mostly on the kind of infrastructure nobody notices until it breaks: data platforms, streaming pipelines, analytics at telecom scale, and lately the cloud and network layer of an AI datacenter.
 
-### Selected work
+> [!NOTE]
+> **Right now:** building cloud infrastructure and networking for **India's largest AI datacenter**, from the ground up. BlueField-3 DPUs provisioned out-of-band, a private WireGuard mesh into GPU pods, and workflow-driven firewall automation.
 
-- **Spark → Rust.** Designed DataCraft, a Rust ETL framework and SDK, and moved real-time log parsing for 17 application groups off Spark. The MyJio pilot went from 480 cores to 10; the fleet from 8.7 TB of executor RAM to under 200 GB.
-- **Structured Streaming.** Migrated our in-house Spark framework and the 400+ production jobs on it from DStreams to Structured Streaming, about 25% more throughput per core. Built a custom Spark UI into the framework for per-batch history and real Kafka lag.
-- **ClickHouse at scale.** IPDR analytics on 200+ PB with tables past two trillion rows. Co-located sharding for zero-shuffle joins, sub-20 ms subscriber lookups, on roughly a tenth of the servers first planned.
-- **SLA engine.** The daily Spark job that decides which seconds of downtime count against cloud SLAs: HA pairs checked second by second, silent outages back-dated, change windows cut out.
-- **AI cloud infra.** Zero-trust bare-metal onboarding through DPUs, Bastion-as-a-Service, and end-to-end ACL automation across tenant route domains.
+## Selected work
 
-Almost all of this is internal, so the code isn't here. The architecture diagrams and the numbers behind them are on **[fin1te.com](https://fin1te.com)**.
+<a href="https://fin1te.com/work">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/work-dark.svg" />
+    <img src="assets/work-light.svg" alt="Selected work: Spark to Rust (480 to 10 cores), 400+ Spark jobs on Structured Streaming, ClickHouse at 2 trillion+ rows, a cloud SLA engine, AI datacenter infrastructure, zero-trust mesh and ACL automation." width="100%" />
+  </picture>
+</a>
 
-### Writing
+<sub>This work is internal, so the code isn't public. <a href="https://fin1te.com">fin1te.com</a> has high-level write-ups and simplified, generalised diagrams; anything sensitive is left out.</sub>
 
-- [Moving 400+ Spark jobs from DStreams to Structured Streaming](https://fin1te.com/writing/dstream-to-structured-streaming)
-- [Building the Spark UI that Structured Streaming should have had](https://fin1te.com/writing/a-spark-ui-for-structured-streaming)
-- [Replacing a 480-core Spark job with 10 cores of Rust](https://fin1te.com/writing/spark-to-rust)
-- [Sub-20 ms lookups on trillion-row tables: ClickHouse sort keys in practice](https://fin1te.com/writing/clickhouse-sort-keys)
-- [The 497-day bug](https://fin1te.com/writing/the-497-day-bug)
-- [How a cloud SLA is actually calculated](https://fin1te.com/writing/how-cloud-slas-are-calculated)
+## Writing
 
-### What I work with
+| | |
+| :-- | :-- |
+| `Aug 2026` | **[Moving 400+ Spark jobs from DStreams to Structured Streaming](https://fin1te.com/writing/dstream-to-structured-streaming)** <br /> <sub>A naive port was twice as slow and quietly lost data. Nine fixes later, it pulled ahead.</sub> |
+| `Aug 2026` | **[Building the Spark UI that Structured Streaming should have had](https://fin1te.com/writing/a-spark-ui-for-structured-streaming)** <br /> <sub>A SparkPlugin, a query listener and server-rendered SVG, for real Kafka lag in minutes.</sub> |
+| `Apr 2026` | **[Replacing a 480-core Spark job with 10 cores of Rust](https://fin1te.com/writing/spark-to-rust)** <br /> <sub>Parity on live traffic, and the thread-count bug that nearly derailed it.</sub> |
+| `Mar 2026` | **[Sub-20 ms lookups on trillion-row tables](https://fin1te.com/writing/clickhouse-sort-keys)** <br /> <sub>ClickHouse sort keys, granules, and why a point lookup should not care how big the table is.</sub> |
+| `Nov 2025` | **[The 497-day bug](https://fin1te.com/writing/the-497-day-bug)** <br /> <sub>Healthy switches showing up as down, and the 32-bit counter behind it.</sub> |
+| `Sep 2025` | **[How a cloud SLA is actually calculated](https://fin1te.com/writing/how-cloud-slas-are-calculated)** <br /> <sub>HA pairs, silent outages, change windows: deciding which seconds of downtime count.</sub> |
 
-**Every day:** Rust · Scala · Python · SQL · Apache Spark · Kafka · ClickHouse · Kubernetes · Docker · Azure DevOps
+## Stack
 
-**Infrastructure:** NVIDIA BlueField-3 · DOCA DPF · Redfish · WireGuard / Headscale · F5 BIG-IP · Temporal · Crossplane · OpenTofu · KubeVirt · OVN-Kubernetes
+<a href="https://fin1te.com/stack">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
+    <img src="assets/stack-light.svg" alt="Stack: Rust, Scala, Python, SQL, Spark, Kafka, ClickHouse, Kubernetes daily; plus Elasticsearch, Trino, Docker, Helm, Prometheus, BlueField-3, WireGuard, F5 BIG-IP, Temporal, Crossplane and more." width="100%" />
+  </picture>
+</a>
 
-**Data & observability:** Elasticsearch · Oracle · PostgreSQL · Trino · Prometheus · Grafana · Superset · Vector · Fluent Bit
+## Before Jio
 
-The full list, with how deeply I know each one, is at [fin1te.com/stack](https://fin1te.com/stack).
+- `2023` &nbsp; B.E. Computer Engineering, **9.3 CGPA**, Best Performer of the batch
+- `2023` &nbsp; Lead organiser of **HackOverflow**, a national hackathon, and [built its Android app](https://github.com/fin1te/HackOverflow-Android)
+- `2021–22` &nbsp; **Google Developer Student Clubs Lead**, selected by Google India
+- `2022` &nbsp; Project admin at **GirlScript Summer of Code**, Google Android Educator, Postman Student Expert
+- `2020–23` &nbsp; Android apps in Kotlin and Java, most of the older repos on this profile
 
-### Before Jio
+## Elsewhere
 
-I spent college writing Android apps and running developer communities. I was Google Developer Student Clubs Lead at PHCET (2021–22), a GirlScript Summer of Code project admin, a Google Android Educator, and lead organiser of the HackOverflow national hackathon, for which I also [built the app](https://github.com/fin1te/HackOverflow-Android). I graduated in Computer Engineering with a 9.3 CGPA. The older repos on this profile are from that time.
-
-### Elsewhere
-
-[fin1te.com](https://fin1te.com) · [LinkedIn](https://www.linkedin.com/in/fin1te) · [X](https://x.com/rishabh_apk) · [rishabhmehta00@gmail.com](mailto:rishabhmehta00@gmail.com)
+[![fin1te.com](https://img.shields.io/badge/fin1te.com-6e56cf?style=for-the-badge&logoColor=white)](https://fin1te.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-141413?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fin1te)
+[![X](https://img.shields.io/badge/@rishabh__apk-141413?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rishabh_apk)
+[![Email](https://img.shields.io/badge/Email-141413?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhmehta00@gmail.com)

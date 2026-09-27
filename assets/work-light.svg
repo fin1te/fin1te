@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="416" viewBox="0 0 1200 416" role="img" aria-label="Selected work">
+<g transform="translate(0,0)">
+<rect x="0.5" y="0.5" width="375" height="195" rx="12" fill="#fdfcfa" stroke="#dfddd6"/>
+<text x="24" y="38" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="0.8" fill="#5b3fc4">RUST · KAFKA</text>
+<text x="24" y="86" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-1" fill="#141413">480 → 10<tspan dx="8" font-size="15" font-weight="500" letter-spacing="0" fill="#6b6a65">cores</tspan></text>
+<text x="24" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#141413">Spark → Rust</text>
+<text x="24" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#6b6a65">DataCraft framework, 17 app groups</text>
+<line x1="24" y1="172" x2="352" y2="172" stroke="#dfddd6" stroke-dasharray="2 5"/>
+<circle cy="172" r="2.6" fill="#6e56cf"><animate attributeName="cx" from="24" to="352" dur="2.8s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="2.8s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cy="172" r="2.6" fill="#6e56cf"><animate attributeName="cx" from="24" to="352" dur="2.8s" begin="0.7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="2.8s" begin="0.7s" repeatCount="indefinite"/></circle>
+<circle cy="172" r="2.6" fill="#6e56cf"><animate attributeName="cx" from="24" to="352" dur="2.8s" begin="1.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="2.8s" begin="1.4s" repeatCount="indefinite"/></circle>
+<circle cy="172" r="2.6" fill="#6e56cf"><animate attributeName="cx" from="24" to="352" dur="2.8s" begin="2.0999999999999996s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="2.8s" begin="2.0999999999999996s" repeatCount="indefinite"/></circle>
+</g>
+<g transform="translate(412,0)">
+<rect x="0.5" y="0.5" width="375" height="195" rx="12" fill="#fdfcfa" stroke="#dfddd6"/>
+<text x="24" y="38" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="0.8" fill="#5b3fc4">SCALA · SPARK</text>
+<text x="24" y="86" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-1" fill="#141413">400+<tspan dx="8" font-size="15" font-weight="500" letter-spacing="0" fill="#6b6a65">jobs</tspan></text>
+<text x="24" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#141413">Structured Streaming</text>
+<text x="24" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#6b6a65">~25% more throughput per core</text>
+<rect x="24" y="172" width="7" height="6" rx="1.5" fill="#6e56cf" opacity="0.35"><animate attributeName="opacity" values="0.25;0.9;0.25" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></rect>
+<rect x="36" y="169" width="7" height="9" rx="1.5" fill="#6e56cf" opacity="0.35"><animate attributeName="opacity" values="0.25;0.9;0.25" dur="2.4s" begin="0.12s" repeatCount="indefinite"/></rect>
+<rect x="48" y="171" width="7" height="7" rx="1.5" fill="#6e56cf" opacity="0.35"><animate attributeName="opacity" values="0.25;0.9;0.25" dur="2.4s" begin="0.24s" repeatCount="indefinite"/></rect>
+<rect x="60" y="166" width="7" height="12" rx="1.5" fill="#6e56cf" opacity="0.35"><animate attributeName="opacity" values="0.25;0.9;0.25" dur="2.4s" begin="0.36s" repeatCount="indefinite"/></rect>
+<rect x="72" y="168" width="7" height="10" rx="1.5" fill="#6e56cf" opacity="0.35"><animate attributeName="opacity" values="0.25;0.9;0.25" dur="2.4s" begin="0.48s" repeatCount="indefinite"/></rect>
+<rect x="84" y="170" width="7" height="8" rx="1.5" fill="#6e56cf" opacity="0.35"><animate attributeName="opacity" values="0.25;0.9;0.25" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></rect>
+<rect x="96" y="165" width="7" height="13" rx="1.5" fill="#6e56cf" opacity="0.35"><animate attributeName="opacity" values="0.25;0.9;0.25" dur="2.4s" begin="0.72s" repeatCount="indefinite"/></rect>
+<rect x="108" y="167" width="7" height="11" rx="1.5" fill="#6e56cf" opacity="0.35"><animate attributeName="opacity" values="0.25;0.9;0.25" dur="2.4s" begin="0.84s" repeatCount="indefinite"/></rect>
+<rect x="120" y="169" width="7" height="9" rx="1.5" fill="#6e56cf" opacity="0.35"><animate attributeName="opacity" values="0.25;0.9;0.25" dur="2.4s" begin="0.96s" repeatCount="indefinite"/></rect>
+<rect x="132" y="164" width="7" height="14" rx="1.5" fill="#6e56cf" opacity="0.35"><animate attributeName="opacity" values="0.25;0.9;0.25" dur="2.4s" begin="1.08s" repeatCount="indefinite"/></rect>
+<rect x="144" y="166" width="7" height="12" rx="1.5" fill="#6e56cf" opacity="0.35"><animate attributeName="opacity" values="0.25;0.9;0.25" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></rect>
+<rect x="156" y="168" width="7" height="10" rx="1.5" fill="#6e56cf" opacity="0.35"><animate attributeName="opacity" values="0.25;0.9;0.25" dur="2.4s" begin="1.3199999999999998s" repeatCount="indefinite"/></rect>
+<rect x="168" y="165" width="7" height="13" rx="1.5" fill="#6e56cf" opacity="0.35"><animate attributeName="opacity" values="0.25;0.9;0.25" dur="2.4s" begin="1.44s" repeatCount="indefinite"/></rect>
+<rect x="180" y="167" width="7" height="11" rx="1.5" fill="#6e56cf" opacity="0.35"><animate attributeName="opacity" values="0.25;0.9;0.25" dur="2.4s" begin="1.56s" repeatCount="indefinite"/></rect>
+</g>
+<g transform="translate(824,0)">
+<rect x="0.5" y="0.5" width="375" height="195" rx="12" fill="#fdfcfa" stroke="#dfddd6"/>
+<text x="24" y="38" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="0.8" fill="#5b3fc4">CLICKHOUSE</text>
+<text x="24" y="86" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-1" fill="#141413">2T+<tspan dx="8" font-size="15" font-weight="500" letter-spacing="0" fill="#6b6a65">rows</tspan></text>
+<text x="24" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#141413">Telecom-scale analytics</text>
+<text x="24" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#6b6a65">sub-20 ms lookups at 200+ PB</text>
+<rect x="24" y="164" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="35" y="164" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="46" y="164" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="57" y="164" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="68" y="164" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="79" y="164" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="90" y="164" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="101" y="164" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="112" y="164" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="123" y="164" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="134" y="164" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="145" y="164" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="156" y="164" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="167" y="164" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="178" y="164" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="189" y="164" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="200" y="164" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="211" y="164" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="222" y="164" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="233" y="164" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="244" y="164" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="255" y="164" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="24" y="173" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="35" y="173" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="46" y="173" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="57" y="173" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="68" y="173" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="79" y="173" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="90" y="173" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="101" y="173" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="112" y="173" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="123" y="173" width="7" height="6" rx="1" fill="#6e56cf"/>
+<rect x="134" y="173" width="7" height="6" rx="1" fill="#6e56cf"/>
+<rect x="145" y="173" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="156" y="173" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="167" y="173" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="178" y="173" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="189" y="173" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="200" y="173" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="211" y="173" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="222" y="173" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="233" y="173" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="244" y="173" width="7" height="6" rx="1" fill="#c9c6bd"/>
+<rect x="255" y="173" width="7" height="6" rx="1" fill="#c9c6bd"/>
+</g>
+<g transform="translate(0,220)">
+<rect x="0.5" y="0.5" width="375" height="195" rx="12" fill="#fdfcfa" stroke="#dfddd6"/>
+<text x="24" y="38" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="0.8" fill="#5b3fc4">SPARK · SQL</text>
+<text x="24" y="86" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-1" fill="#141413">1 s<tspan dx="8" font-size="15" font-weight="500" letter-spacing="0" fill="#6b6a65">resolution</tspan></text>
+<text x="24" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#141413">Cloud SLA engine</text>
+<text x="24" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#6b6a65">HA pairs, counter wraps, change windows</text>
+</g>
+<g transform="translate(412,220)">
+<rect x="0.5" y="0.5" width="375" height="195" rx="12" fill="#fdfcfa" stroke="#dfddd6"/>
+<text x="24" y="38" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="0.8" fill="#5b3fc4">BLUEFIELD-3 · REDFISH</text>
+<text x="24" y="86" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-1" fill="#141413">0<tspan dx="8" font-size="15" font-weight="500" letter-spacing="0" fill="#6b6a65">host agents</tspan></text>
+<text x="24" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#141413">AI datacenter infra</text>
+<text x="24" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#6b6a65">bare-metal onboarding through DPUs</text>
+<circle cx="344" cy="36" r="4" fill="#1f8a4c"/>
+<circle cx="344" cy="36" r="4" fill="none" stroke="#1f8a4c"><animate attributeName="r" values="4;11" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.7;0" dur="1.8s" repeatCount="indefinite"/></circle>
+<text x="332" y="40" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#1f8a4c">NOW</text>
+</g>
+<g transform="translate(824,220)">
+<rect x="0.5" y="0.5" width="375" height="195" rx="12" fill="#fdfcfa" stroke="#dfddd6"/>
+<text x="24" y="38" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="0.8" fill="#5b3fc4">WIREGUARD · F5</text>
+<text x="24" y="86" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-1" fill="#141413">Zero<tspan dx="8" font-size="15" font-weight="500" letter-spacing="0" fill="#6b6a65">trust</tspan></text>
+<text x="24" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#141413">Mesh + ACL automation</text>
+<text x="24" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#6b6a65">Headscale, Temporal, Crossplane</text>
+</g>
+</svg>
