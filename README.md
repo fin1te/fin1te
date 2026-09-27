@@ -10,7 +10,7 @@
 Hi, I'm Rishabh. I work on the **Jio Cloud** team at Jio Platforms in Mumbai, mostly on the kind of infrastructure nobody notices until it breaks: data platforms, streaming pipelines, analytics at telecom scale, and lately the cloud and network layer of an AI datacenter.
 
 > [!NOTE]
-> **Right now:** building cloud infrastructure and networking for **India's largest AI datacenter**, from the ground up. BlueField-3 DPUs provisioned out-of-band, a private WireGuard mesh into GPU pods, and workflow-driven firewall automation.
+> **Right now:** building cloud infrastructure and networking for **India's largest AI datacenter**, from the ground up.
 
 ## Selected work
 
