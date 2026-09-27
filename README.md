@@ -25,14 +25,32 @@ Hi, I'm Rishabh. I work on the **Jio Cloud** team at Jio Platforms in Mumbai, mo
 
 ## Writing
 
-| | |
-| :-- | :-- |
-| `Aug 2026` | **[Moving 400+ Spark jobs from DStreams to Structured Streaming](https://fin1te.com/writing/dstream-to-structured-streaming)** <br /> <sub>A naive port was twice as slow and quietly lost data. Nine fixes later, it pulled ahead.</sub> |
-| `Aug 2026` | **[Building the Spark UI that Structured Streaming should have had](https://fin1te.com/writing/a-spark-ui-for-structured-streaming)** <br /> <sub>A SparkPlugin, a query listener and server-rendered SVG, for real Kafka lag in minutes.</sub> |
-| `Apr 2026` | **[Replacing a 480-core Spark job with 10 cores of Rust](https://fin1te.com/writing/spark-to-rust)** <br /> <sub>Parity on live traffic, and the thread-count bug that nearly derailed it.</sub> |
-| `Mar 2026` | **[Sub-20 ms lookups on trillion-row tables](https://fin1te.com/writing/clickhouse-sort-keys)** <br /> <sub>ClickHouse sort keys, granules, and why a point lookup should not care how big the table is.</sub> |
-| `Nov 2025` | **[The 497-day bug](https://fin1te.com/writing/the-497-day-bug)** <br /> <sub>Healthy switches showing up as down, and the 32-bit counter behind it.</sub> |
-| `Sep 2025` | **[How a cloud SLA is actually calculated](https://fin1te.com/writing/how-cloud-slas-are-calculated)** <br /> <sub>HA pairs, silent outages, change windows: deciding which seconds of downtime count.</sub> |
+<table>
+  <tr>
+    <td width="110"><code>Aug 2026</code></td>
+    <td><a href="https://fin1te.com/writing/dstream-to-structured-streaming"><b>Moving 400+ Spark jobs from DStreams to Structured Streaming</b></a><br /><sub>A naive port was twice as slow and quietly lost data. Nine fixes later, it pulled ahead.</sub></td>
+  </tr>
+  <tr>
+    <td width="110"><code>Aug 2026</code></td>
+    <td><a href="https://fin1te.com/writing/a-spark-ui-for-structured-streaming"><b>Building the Spark UI that Structured Streaming should have had</b></a><br /><sub>A SparkPlugin, a query listener and server-rendered SVG, for real Kafka lag in minutes.</sub></td>
+  </tr>
+  <tr>
+    <td width="110"><code>Apr 2026</code></td>
+    <td><a href="https://fin1te.com/writing/spark-to-rust"><b>Replacing a 480-core Spark job with 10 cores of Rust</b></a><br /><sub>Parity on live traffic, and the thread-count bug that nearly derailed it.</sub></td>
+  </tr>
+  <tr>
+    <td width="110"><code>Mar 2026</code></td>
+    <td><a href="https://fin1te.com/writing/clickhouse-sort-keys"><b>Sub-20 ms lookups on trillion-row tables</b></a><br /><sub>ClickHouse sort keys, granules, and why a point lookup should not care how big the table is.</sub></td>
+  </tr>
+  <tr>
+    <td width="110"><code>Nov 2025</code></td>
+    <td><a href="https://fin1te.com/writing/the-497-day-bug"><b>The 497-day bug</b></a><br /><sub>Healthy switches showing up as down, and the 32-bit counter behind it.</sub></td>
+  </tr>
+  <tr>
+    <td width="110"><code>Sep 2025</code></td>
+    <td><a href="https://fin1te.com/writing/how-cloud-slas-are-calculated"><b>How a cloud SLA is actually calculated</b></a><br /><sub>HA pairs, silent outages, change windows: deciding which seconds of downtime count.</sub></td>
+  </tr>
+</table>
 
 ## Stack
 
