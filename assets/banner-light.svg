@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Rishabh Mehta, cloud and data engineer">
+  <defs>
+    <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="rgba(20,20,19,0.08)"/></pattern>
+    <clipPath id="r"><rect width="1200" height="360" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="1200" height="360" fill="#f6f5f1"/>
+    <rect width="1200" height="360" fill="url(#dots)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="359" rx="14" fill="none" stroke="#dfddd6"/>
+
+  <rect x="56" y="54" width="12" height="12" rx="1.5" fill="#6e56cf"/>
+  <text x="80" y="65" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="500" fill="#141413">fin1te</text>
+  <text x="1144" y="65" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#6b6a65">Mumbai · UTC+5:30</text>
+
+  <text x="56" y="140" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="-1.6" fill="#141413">Rishabh Mehta</text>
+  <text x="56" y="182" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#3d3d3a">Cloud &amp; Data Engineer at Jio Platforms. I build data platforms and</text>
+  <text x="56" y="214" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#3d3d3a">cloud infrastructure, <tspan fill="#5b3fc4" font-weight="600">then make them smaller.</tspan></text>
+
+  <line x1="56" y1="258" x2="1144" y2="258" stroke="#dfddd6"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="56" y="298" font-size="24" font-weight="700"><tspan fill="#9c9a93" text-decoration="line-through">8.7 TB</tspan><tspan fill="#6e56cf" dx="10">→</tspan><tspan fill="#141413" dx="10">&lt;200 GB</tspan></text>
+    <text x="56" y="322" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#6b6a65">RAM after Spark → Rust, 17 groups</text>
+
+    <text x="340" y="298" font-size="24" font-weight="700" fill="#141413">400+</text>
+    <text x="340" y="322" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#6b6a65">Spark jobs on Structured Streaming</text>
+
+    <text x="630" y="298" font-size="24" font-weight="700" fill="#141413">200+ PB</text>
+    <text x="630" y="322" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#6b6a65">ClickHouse, 2T+ row tables</text>
+
+    <text x="880" y="298" font-size="24" font-weight="700" fill="#141413">AI datacenter</text>
+    <text x="880" y="322" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#6b6a65">cloud + network, from scratch</text>
+  </g>
+</svg>

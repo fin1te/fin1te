@@ -1,70 +1,49 @@
-# CSE Undergrad & Native App Developer
-## [Google Developer Student Club Lead](https://gdsc.community.dev/pillai-hoc-college-of-engineering-and-technology-navi-mumbai/)
-### [Project Admin @ GirlScript Summer of Code 2022](https://gssoc.girlscript.tech/)
+<a href="https://fin1te.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
+    <img src="assets/banner-light.svg" alt="Rishabh Mehta, Cloud & Data Engineer at Jio Platforms. I build data platforms and cloud infrastructure, then make them smaller." width="100%" />
+  </picture>
+</a>
 
-<!--#### [Join our Developer Student Club](https://gdsc.community.dev/pillai-hoc-college-of-engineering-and-technology/) where we'll together learn App Development, Web Development & DevOps with bi-weekly Workshops, Hackathons, Winter of Code (Nov-Jan '21) & Summer of Code (Feb-May '22) and as well regularly Contributing to Open Source Projects here on GitHub (I'll be taking sessions & teaching Git & GitHub from the very fundamental basics to advance). Learn more about Developer Student Clubs [here.](https://developers.google.com/community/dsc/)-->
+I'm Rishabh, a cloud and data engineer on the Jio Cloud team at Jio Platforms, Mumbai. Most of my work is infrastructure nobody sees until it breaks: data platforms, streaming pipelines, analytics at telecom scale, and lately the cloud and network layer of an AI datacenter.
 
-<img align="right" height='180px' alt="GIF" src="https://media1.tenor.com/images/104f3a788e614cb7ecf468d09eff1d1a/tenor.gif" />
+**Right now:** building cloud infrastructure and networking for India's largest AI datacenter from the ground up. That means BlueField-3 DPUs provisioned out-of-band over Redfish, a self-hosted WireGuard mesh into GPU pods, and Temporal and Crossplane workflows that automate firewall changes on F5 BIG-IP.
 
-</br>
+### Selected work
 
-- **🔢 Rishabh here, Android Developer & Open Source Enthusiast**
-- **💻 I code mainly in Kotlin & Java (Ocasionally in c, C++ & Python)**
-- **✍ I teach Android App Development in Kotlin, Java, Git and REST APIs.**
-- **Read my tech blogs at [Hashnode](https://finite.hashnode.dev/)**
-- **Follow me on Tech Twitter [@shoxxxxie](https://twitter.com/shoxxxxie)**
-- **Checkout our past event's recordings on our [YouTube](https://www.youtube.com/channel/UCT_PuQ6yrstde355wXrrE5Q/)**
-- **Contribute to GDSC PHCET's [Open Source App](https://github.com/DSC-PHCET/gdsc-android-app), Good First Issues are available for beginners**
+| | |
+| :-- | :-- |
+| **Spark → Rust** | Designed DataCraft, a Rust ETL framework and SDK, and moved real-time log parsing for 17 application groups off Spark. The MyJio pilot went from 480 cores to 10; the fleet from 8.7 TB of executor RAM to under 200 GB. |
+| **Structured Streaming** | Migrated our in-house Spark framework and the 400+ production jobs on it from DStreams to Structured Streaming, about 25% more throughput per core. Built a custom Spark UI into the framework for per-batch history and real Kafka lag. |
+| **ClickHouse at scale** | IPDR analytics on 200+ PB with tables past two trillion rows. Co-located sharding for zero-shuffle joins, sub-20 ms subscriber lookups, on roughly a tenth of the servers first planned. |
+| **SLA engine** | The daily Spark job that decides which seconds of downtime count against cloud SLAs: HA pairs checked second by second, silent outages back-dated, change windows cut out. |
+| **AI cloud infra** | Zero-trust bare-metal onboarding through DPUs, Bastion-as-a-Service, and end-to-end ACL automation across tenant route domains. |
 
-- **Always here to help if you're looking to contact, reach me [here](https://linktr.ee/fin1te)** 
-<!--
-- **⚙ C | C++ | Java | Android Studio | Git |**
-- **⚙ Photoshop | AfterEffect | Autocad | Lightroom |**
-- **⚙ Sketchup Pro | Lightroom | VSCode | Eclipse |**
-- **🔰 | QA Manual Testing |**
----
-##### Note : The 3 major repos PMC, PHCET & CovidInfoLeads are turned private for few weeks till i finish the stable beta build for PMC & PHCET and v1.1.0 for CovidInfoLeads.
-##### Once I'm done with this I'll open 2 of them as Open Source Projects under the [Developer Student Club](https://github.com/dsc-phcet) and the last one will be released on App Stores (with selected Dev Teams). I'll update y'all about it via our Discord & Twitter. 
----
--->
----
-### Programming Languages :
+Almost all of this is internal, so the code isn't here. The architecture diagrams and the numbers behind them are on **[fin1te.com](https://fin1te.com)**.
 
-  ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)&nbsp;
-  ![](https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)&nbsp;
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)&nbsp;
-  ![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)&nbsp;
+### Writing
 
-### Backend & Databases:
+- [Moving 400+ Spark jobs from DStreams to Structured Streaming](https://fin1te.com/writing/dstream-to-structured-streaming)
+- [Building the Spark UI that Structured Streaming should have had](https://fin1te.com/writing/a-spark-ui-for-structured-streaming)
+- [Replacing a 480-core Spark job with 10 cores of Rust](https://fin1te.com/writing/spark-to-rust)
+- [Sub-20 ms lookups on trillion-row tables: ClickHouse sort keys in practice](https://fin1te.com/writing/clickhouse-sort-keys)
+- [The 497-day bug](https://fin1te.com/writing/the-497-day-bug)
+- [How a cloud SLA is actually calculated](https://fin1te.com/writing/how-cloud-slas-are-calculated)
 
-  ![SQL](https://img.shields.io/badge/sql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
-  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase)&nbsp;
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### What I work with
 
-### Tools :
+**Every day:** Rust · Scala · Python · SQL · Apache Spark · Kafka · ClickHouse · Kubernetes · Docker · Azure DevOps
 
-  ![Android](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
-  ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-  ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
-  ![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-  ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)&nbsp;
+**Infrastructure:** NVIDIA BlueField-3 · DOCA DPF · Redfish · WireGuard / Headscale · F5 BIG-IP · Temporal · Crossplane · OpenTofu · KubeVirt · OVN-Kubernetes
 
+**Data & observability:** Elasticsearch · Oracle · PostgreSQL · Trino · Prometheus · Grafana · Superset · Vector · Fluent Bit
 
----
+The full list, with how deeply I know each one, is at [fin1te.com/stack](https://fin1te.com/stack).
 
-<div id="just-line-break"></div>
-<br/>
-<div id="line-break-and-tab"></div>
-<div id="just-line-break2"></div>
-<br/>
-<div id="line-break-and-tab2"></div>
+### Before Jio
 
+I spent college writing Android apps and running developer communities. I was Google Developer Student Clubs Lead at PHCET (2021–22), a GirlScript Summer of Code project admin, a Google Android Educator, and lead organiser of the HackOverflow national hackathon, for which I also [built the app](https://github.com/fin1te/HackOverflow-Android). I graduated in Computer Engineering with a 9.3 CGPA. The older repos on this profile are from that time.
 
+### Elsewhere
 
-
-<img height='200px' src="https://github-readme-stats.vercel.app/api?username=fin1te&count_private=true&show_icons=true&theme=radical">
-
-<!--<img height='200px' width='300px' align="right | center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fin1te&show_icons=true&theme=radical">-->
+[fin1te.com](https://fin1te.com) · [LinkedIn](https://www.linkedin.com/in/fin1te) · [X](https://x.com/rishabh_apk) · [rishabhmehta00@gmail.com](mailto:rishabhmehta00@gmail.com)
