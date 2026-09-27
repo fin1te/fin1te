@@ -11,13 +11,11 @@ I'm Rishabh, a cloud and data engineer on the Jio Cloud team at Jio Platforms, M
 
 ### Selected work
 
-| | |
-| :-- | :-- |
-| **Spark → Rust** | Designed DataCraft, a Rust ETL framework and SDK, and moved real-time log parsing for 17 application groups off Spark. The MyJio pilot went from 480 cores to 10; the fleet from 8.7 TB of executor RAM to under 200 GB. |
-| **Structured Streaming** | Migrated our in-house Spark framework and the 400+ production jobs on it from DStreams to Structured Streaming, about 25% more throughput per core. Built a custom Spark UI into the framework for per-batch history and real Kafka lag. |
-| **ClickHouse at scale** | IPDR analytics on 200+ PB with tables past two trillion rows. Co-located sharding for zero-shuffle joins, sub-20 ms subscriber lookups, on roughly a tenth of the servers first planned. |
-| **SLA engine** | The daily Spark job that decides which seconds of downtime count against cloud SLAs: HA pairs checked second by second, silent outages back-dated, change windows cut out. |
-| **AI cloud infra** | Zero-trust bare-metal onboarding through DPUs, Bastion-as-a-Service, and end-to-end ACL automation across tenant route domains. |
+- **Spark → Rust.** Designed DataCraft, a Rust ETL framework and SDK, and moved real-time log parsing for 17 application groups off Spark. The MyJio pilot went from 480 cores to 10; the fleet from 8.7 TB of executor RAM to under 200 GB.
+- **Structured Streaming.** Migrated our in-house Spark framework and the 400+ production jobs on it from DStreams to Structured Streaming, about 25% more throughput per core. Built a custom Spark UI into the framework for per-batch history and real Kafka lag.
+- **ClickHouse at scale.** IPDR analytics on 200+ PB with tables past two trillion rows. Co-located sharding for zero-shuffle joins, sub-20 ms subscriber lookups, on roughly a tenth of the servers first planned.
+- **SLA engine.** The daily Spark job that decides which seconds of downtime count against cloud SLAs: HA pairs checked second by second, silent outages back-dated, change windows cut out.
+- **AI cloud infra.** Zero-trust bare-metal onboarding through DPUs, Bastion-as-a-Service, and end-to-end ACL automation across tenant route domains.
 
 Almost all of this is internal, so the code isn't here. The architecture diagrams and the numbers behind them are on **[fin1te.com](https://fin1te.com)**.
 
